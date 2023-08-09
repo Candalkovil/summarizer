@@ -1,0 +1,16 @@
+﻿What Is a Stock?
+A stock is a financial instrument that represents ownership in a company or corporation and a proportionate claim on its assets and earnings. Stocks are also called shares or equity.
+Owning stock means that a shareholder owns a slice of the company equal to the number of shares held as a proportion of the company's total outstanding shares.
+An individual or entity that owns 100,000 shares of a company with one million outstanding shares would have a 10% ownership stake in it.
+Stocks are also called shares or a company's equity.
+Types of Stock
+There are two main types of stock: common shares and preferred shares. Equities are synonymous with common shares because their market value and trading volumes are many times larger than those of preferred shares.1
+Common shares usually carry voting rights that enable the common shareholder to have a voice in corporate meetings and elections, while preferred shares generally do not have voting rights. Preferred shareholders have priority over common shareholders to receive dividends as well as assets in the event of a liquidation.1
+Common stock can be further classified in terms of voting rights. Some companies have dual or multiple classes of stock with different voting rights attached to each class. In such a dual-class structure, Class A shares may have 10 votes per share, while Class B shares may only have one vote per share. Dual- or multiple-class share structures are designed to enable the founders of a company to control its fortunes, strategic direction, and ability to innovate.2
+What Is a Stock Exchange?
+Stock exchanges are secondary markets where existing shareholders can transact with potential buyers. Corporations listed on stock markets do not commonly buy and sell their shares but may engage in stock buybacks or issue new shares but these transactions occur outside of the framework of the exchange.
+Largest Stock Exchanges
+The first stock markets appeared in Europe in the 16th and 17th centuries, mainly in port cities or trading hubs such as Antwerp, Amsterdam, and London. In the late 18th century, stock markets began appearing in America, notably the New York Stock Exchange (NYSE), which allowed for equity shares to trade.
+The first stock exchange in America was the Philadelphia Stock Exchange (PHLX), which still exists today.3 The NYSE was founded in 1792 with the signing of the Buttonwood Agreement by 24 New York City stockbrokers and merchants. Before this official incorporation, traders and brokers would meet unofficially under a buttonwood tree on Wall Street to buy and sell shares.
+The advent of modern stock markets ushered in an age of regulation and professionalization that now ensures buyers and sellers of shares can trust that their transactions will go through at fair prices and within a reasonable period. Today, there are many stock exchanges in the U.S. and throughout the world, many of which are linked together electronically.
+The NYSE and Nasdaq are the two largest exchanges in the world, based on the total market capitalization of all the companies listed on the exchange. The number of U.S. stock exchanges registered with the Securities and Exchange Commission has reached nearly two dozen, though most of these are owned by either Cboe Global Markets, Nasdaq, or NYSE-owner Intercontinental Exchange.
